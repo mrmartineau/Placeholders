@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+<img src="http://flickholdr.com/${1:800}/${2:600}/${3:sun}" alt="Placeholder image">$0 
+		]]></content>
+	<tabTrigger>img</tabTrigger>
+	<description>Image - Placeholder</description>
+</snippet>
