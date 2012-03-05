@@ -3,30 +3,32 @@
 <table>
 	<thead>
 		<tr>
-			<th></th>
-			<th></th>
-			<th></th>
-			<th></th>
+			<th>$1</th>
+			<th>$2</th>
+			<th>$3</th>
+			<th>$4</th>
 		</tr>
 	</thead>
+	<tfoot>
+		<tr>
+			<td>$5</td>
+			<td>$6</td>
+			<td>$7</td>
+			<td>$8</td>
+		</tr>
+	</tfoot>
 	<tbody>
 		<tr>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
+			<td>$9</td>
+			<td>$10</td>
+			<td>$11</td>
+			<td>$12</td>
 		</tr>
 		<tr>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-		</tr>
-		<tr>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
+			<td>$13</td>
+			<td>$14</td>
+			<td>$15</td>
+			<td>$16</td>
 		</tr>
 	</tbody>
 </table>]]></content>
