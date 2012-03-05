@@ -1,9 +1,9 @@
 <snippet>
 	<content><![CDATA[
 <ol>
-	<li>Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</li>
-	<li>Aliquam tincidunt mauris eu risus.</li>
-	<li>Vestibulum auctor dapibus neque.</li>
+	<li>${1:Lorem ipsum dolor sit amet, consectetuer adipiscing elit.}</li>
+	<li>${2:Aliquam tincidunt mauris eu risus.}</li>
+	<li>${3:Vestibulum auctor dapibus neque.}</li>
 </ol>]]></content>
 	<tabTrigger>ol</tabTrigger>
 	<description>ol - Placeholder</description>

@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-<img src="http://flickholdr.com/${1:800}/${2:600}/${3:sun}" alt="Placeholder image">$0 
+<img src="http://flickholdr.com/${1:width (e.g. 800)}/${2:height (e.g. 600)}/${3:tags to search (e.g. "ewok,pet")}/${4:bw}" alt="${4:Placeholder image}">$0
 		]]></content>
 	<tabTrigger>img</tabTrigger>
 	<description>Image - Placeholder</description>

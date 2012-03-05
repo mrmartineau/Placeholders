@@ -2,11 +2,11 @@
 	<content><![CDATA[
 <nav>
 	<ul>
-		<li><a href="#nowhere" title="Lorum ipsum dolor sit amet">Lorem</a></li>
-		<li><a href="#nowhere" title="Aliquam tincidunt mauris eu risus">Aliquam</a></li>
-		<li><a href="#nowhere" title="Morbi in sem quis dui placerat ornare">Morbi</a></li>
-		<li><a href="#nowhere" title="Praesent dapibus, neque id cursus faucibus">Praesent</a></li>
-		<li><a href="#nowhere" title="Pellentesque fermentum dolor">Pellentesque</a></li>
+		<li><a href="${1:#}" title="${2:Enter title attribute text here}">${3:Lorem}</a></li>
+		<li><a href="${4:#}" title="${5:Enter title attribute text here}">${6:Aliquam}</a></li>
+		<li><a href="${7:#}" title="${8:Enter title attribute text here}">${9:Morbi}</a></li>
+		<li><a href="${10:#}" title="${11:Enter title attribute text here}">${12:Praesent}</a></li>
+		<li><a href="${13:#}" title="${14:Enter title attribute text here}">${15:Pellentesque}</a></li>
 	</ul>
 </nav>]]></content>
 	<tabTrigger>nav</tabTrigger>
