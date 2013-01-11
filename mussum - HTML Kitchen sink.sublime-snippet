@@ -1,0 +1,34 @@
+<snippet>
+	<content><![CDATA[
+<h1>Mussum ipsum cacilds, vidis litro abertis.</h1>
+
+<p><strong>Suco de cevadiss</strong>, eh um leite divinis, qui tem lupuliz, matis, aguis e fermentis. Interagi no meh, cursus quis, vehicula ac nisi. Aenean vel dui dui. Nullam leo erat, aliquet quis tempus a, posuere ut mi. <em>Ut scelerisque neque et turpis posuere pulvinar pellentesque nibh ullamcorper.</em> Pharetra in mattis molestie, volutpat elementum justo. Aenean ut ante turpis. Pellentesque laoreet meh vel <code>lectus scelerisque</code> interdum cursus velit auctor. Lorem ipsum dolor sit amet, consectetur adipiscing elit. <a href="#">Etiam ac mauris lectus</a>, non scelerisque augue. Aenean justo massa.</p>
+
+<h2>Header Level 2</h2>
+
+<ol>
+	<li>Mussum ipsum cacilds, vidis litro abertis.</li>
+	<li>Suco de cevadiss, eh um leite divinis, qui tem lupuliz, matis, aguis e fermentis.</li>
+	<li>Casamentiss faiz malandris se pirulita.</li>
+</ol>
+
+<blockquote><p>Cevadis im ampola pa arma uma pindureta. Nam varius eleifend orci, sed viverra nisl condimentum ut. Donec eget justis enim. Atirei o pau no gatis. Viva Forevis aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Copo furadis eh disculpa de babadis, arcu quam euismod magna, bibendum egestas augue arcu ut est. Delegadis gente finis. In sit amet mattis porris, paradis. Paisis, filhis, espiritis santis. Meh faiz elementum girarzis. Pellentesque viverra accumsan ipsum elementum gravidis.</p></blockquote>
+
+<h3>Header Level 3</h3>
+
+<ul>
+	<li>Cevadis im ampola pa arma uma pindureta.</li>
+	<li>Forevis aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.</li>
+	<li>Vitis e adipiscing enim.</li>
+</ul>
+
+<pre><code>
+#header h1 a { 
+	display: block; 
+	width: 300px; 
+	height: 80px; 
+}
+</code></pre>]]></content>
+	<tabTrigger>mussum</tabTrigger>
+	<description>mussum - HTML Kitchen sink</description>
+</snippet>
